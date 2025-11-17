@@ -1,3 +1,3 @@
 - I have implemented two Text Generation Models 
-  -  Generate shakespeare Noovel based on charcter wise genration using LSTM
-  - Generate Tv-scripts for simpson series based on word generation using LSTM
+  - Generate a Shakespeare novel based on character-wise generation using LSTM
+  - Generate TV scripts for the Simpson series based on word generation using LSTM
